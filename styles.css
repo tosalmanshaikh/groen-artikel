@@ -26,7 +26,7 @@ main {
 article {
     border: 2px solid hsl(63, 56%, 38%);
     background-color: hsl(63, 56%, 80%);
-    border-radius: 8px 8px 0 0;
+    border-radius: 8px 8px 8px 0;
     margin: 16px;
     padding: 16px;
 }
